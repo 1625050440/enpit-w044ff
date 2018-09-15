@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: enpit2018 
 discription:GitHub
-github: false
+github: 
+ is_project_page: false
